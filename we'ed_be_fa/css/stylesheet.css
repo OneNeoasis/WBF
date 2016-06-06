@@ -1,0 +1,122 @@
+body {
+	background-color: #100000;
+
+}
+.logo {
+	width: 350px;
+	margin-left: 500px;
+
+}
+.heading {
+	color: #eed;
+	text-decoration: underline;
+	text-align: center;
+
+}
+.topnav {
+	color: #eed;
+	border: groove 4px #330000;
+
+}
+.vid1 {
+	padding-left: 210px;
+}
+.vid2 {
+	padding-left: 210px;
+}
+.vid3 {
+	padding-left: 210px;
+}
+.vid4 {
+	padding-left: 210px;
+}
+.vid5 {
+	padding-left: 210px;
+}
+.vid6 {
+	padding-left: 210px;
+}
+.padd {
+	padding-left: 28px;
+	padding-right: 28px;
+}
+.nav {
+	color: #eed;
+	padding-left: 20px;
+	padding-right: 20px;
+	border: groove 4px #330000;
+	margin-top: -600px;
+
+}
+.ecnav {
+	color: #eed;
+	padding-left: 20px;
+	padding-right: 20px;
+	border: groove 4px #330000;
+	margin-top: -600px;
+}
+.wcnav {
+	color: #eed;
+	padding-left: 20px;
+	padding-right: 20px;
+	border: groove 4px #330000;
+	margin-top: -600px;
+}
+.ugnav {
+	color: #eed;
+	padding-left: 20px;
+	padding-right: 20px;
+	border: groove 4px #330000;
+	margin-top: -600px;
+}
+.grnav {
+	color: #eed;
+	padding-left: 20px;
+	padding-right: 20px;
+	border: groove 4px #330000;
+	margin-top: -600px;
+}
+.isnav {
+	color: #eed;
+	padding-left: 20px;
+	padding-right: 20px;
+	border: groove 4px #330000;
+	margin-top: -600px;
+}
+.thead {
+	color: #fff;
+
+}
+.anchor {
+	text-decoration: none;
+	color: #eed;
+
+}
+#ec {
+	color: #f00;
+	text-decoration: underline;
+}
+#wc {
+	color: #f00;
+	text-decoration: underline;
+}
+#ug {
+	color: #f00;
+	text-decoration: underline;
+}
+#gr {
+	color: #f00;
+	text-decoration: underline;
+}
+#is {
+	color: #f00;
+	text-decoration: underline;
+}
+footer {
+	color: #fff;
+	text-align: center;
+	padding-top: 150px;
+
+
+}
+
